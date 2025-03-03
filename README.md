@@ -159,12 +159,3 @@ The pipeline trains a linear regression model to predict ride duration. The mode
 *   Explore using dbt for data transformations.
 *   Refactor the model training code to run outside of the Airflow worker (e.g., using a KubernetesPodOperator).
 *   Add unit and integration tests for the DAGs and custom operators.
-
-## Contributing
-
-[Optional: Include contribution guidelines if you're open to it.]
-
-## License
-
-[Optional: Choose a license (e.g., MIT, Apache 2.0).]
-```
